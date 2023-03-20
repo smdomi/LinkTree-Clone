@@ -1,1 +1,1 @@
-# LinkTree-Clone
+This is a clone of linktree made :)
